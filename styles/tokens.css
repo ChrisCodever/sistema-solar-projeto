@@ -1,0 +1,69 @@
+.container-text-h1 {
+  font-family: fantasy;
+ 
+ 
+}
+
+.container-text {
+  display: flex;
+  /* width: 300px; */
+ }
+
+ 
+
+p {
+  color:var(--texto-2);
+  text-align: justify;
+  font-size: .7778rem;
+  /* padding: 10px; */
+   
+  
+
+   
+ }
+
+ h1 {
+  color: var(--texto-1);
+  text-align: center;
+  border-radius: 7px;
+  margin: 10px 0px;
+  padding: 5px;
+
+  font-size: var(--fonte-titulos);
+
+ }
+
+ .titplanet {
+  text-align: end;
+ }
+
+ .pplanet {
+  padding-top: 6px;
+  max-width: 600px;
+  align-self: center;
+   
+ 
+   
+ }
+
+ .pfamily {
+  max-width: 250px;
+ }
+
+  .pitens {
+  max-width: 300px;
+ }
+
+ footer {
+  background: black;
+  text-align: center;
+  color: aliceblue;
+  padding: 10px;
+  /* box-sizing:  border-box; */
+  width: 100vw;
+  margin: 0 auto;
+ }
+
+ 
+
+ 

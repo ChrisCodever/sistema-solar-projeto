@@ -1,0 +1,17 @@
+.botao:hover {
+  transition: 0.5s;
+  box-shadow: 2px 5px rgba(234, 243, 110, 0.685);
+   
+}
+.astronauta {
+  
+  max-height: 60px;
+  position: absolute;
+   
+  /* border-left: solid rgb(0, 0, 0) 20px; */
+}
+
+/* .planetimg:hover { */
+  /* border-bottom:  solid   rgb(240, 10, 10); } */
+
+ 

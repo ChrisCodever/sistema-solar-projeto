@@ -1,0 +1,22 @@
+[id="item-1"] {
+  border: solid  var(--color3);
+}
+
+[src="img/jupiter.png"]
+ {
+  border: solid  var(--color3);
+
+}
+
+/*    ^= que comece   */
+a[href^="https://www.youtube"]
+{
+  box-shadow: 2px 2px 3px 4px var(--color1);
+}
+
+/*    $=  que termine  */
+a[href$=".com/browse"]
+{
+  box-shadow: 2px 2px 3px 4px var(--color2);
+}
+

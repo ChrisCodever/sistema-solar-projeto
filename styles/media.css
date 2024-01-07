@@ -1,0 +1,25 @@
+@media 
+(min-width:200px) and (max-width:900px)
+{
+
+  .container-wrapper {
+    display: grid;
+  }
+
+
+ }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fundo: black;
+    --fundo2:#222 ;
+    --fundo3:#3a3838 ;
+    --texto-1: #eee;
+    --texto-2: #bbb;
+  }
+  h1 {
+    background-color: #5a5757;
+  }
+}
+
+ 

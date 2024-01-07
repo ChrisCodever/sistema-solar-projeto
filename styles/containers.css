@@ -1,0 +1,86 @@
+.container-wrapper {
+  display: flex;
+    
+  max-width: 1400px;
+   
+  gap: 15px;
+  margin: 10px auto;
+  /* background: green; */
+   
+  
+ }
+
+.container-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* gap: 10px; */
+  padding: 10px;
+  border-radius: 12px;
+  /* max-width:100%; */
+
+  background: rgb(211, 211, 243);
+  background-image: url(img/azul-pastel.jpg) ;
+  min-width: 400px;
+  max-width: 100%;
+ }
+
+ .container-center {
+  
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* gap: 10px; */
+  padding: 10px;
+  border-radius: 12px;
+  /* max-width:100%; */
+   background-color: var(--fundo2);
+    min-width: 400px;
+   
+ }
+
+
+
+ .planeta {
+  display: flex;
+   background: var(--fundo3);
+   border-radius: 9px;
+   padding: 2px;
+   
+   
+ }
+
+  
+  
+  
+  
+
+ 
+
+ .container-right {
+   display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 12px;
+  /* max-width:100%; */
+
+  background: rgb(211, 211, 243);
+  background-image: url(img/azul-pastel.jpg) ;
+  min-width: 400px;
+  /* max-width: 600px; */
+ }
+
+ .sistema-solar {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  gap: 20px;
+  border-radius: 12px;
+  
+ }
+
+ 
+
+  

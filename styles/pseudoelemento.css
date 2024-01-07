@@ -1,0 +1,25 @@
+.titulo#um::after {
+  content: "" ;
+  display: block;
+  width: 80px;
+  height: 7px;
+  background: rgb(77, 153, 230);
+  position: absolute;
+   
+   
+  
+}
+
+.titulo#dois::after {
+  content: "" ;
+  display: block;
+  width: 80px;
+  height: 7px;
+  background: rgb(233, 54, 30);
+  position: absolute;
+   
+   
+  
+}
+
+ 

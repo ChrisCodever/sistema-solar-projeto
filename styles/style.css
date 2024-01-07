@@ -1,0 +1,98 @@
+* {
+margin: 0px;
+padding: 0px;
+font-family: 'Lucida Sans' ;
+font-size: 17px;
+ }
+
+
+.rocket-cursor {
+  cursor: url('../img/rocket01.png') 10 10, auto;
+}
+
+
+
+ body{
+  /* box-sizing: border-box; */
+  width: 100%;
+  /* margin:   auto; */
+  background: var(--fundo);
+ }
+
+  .navegador  {
+  display: flex;
+  justify-content: center;
+  background-image: linear-gradient(45deg,lightblue , rgb(5, 27, 87));
+  width: 100%;
+   
+   
+ }
+
+ .navegador-header {
+  width: 100%;
+ }
+
+  .botao {
+  width: 100%;
+  min-width: 5px;
+  border-radius: 50%;
+   
+ }
+
+ ul{
+  list-style: none;
+ }
+
+ li {
+  flex-basis: 70px;
+  width: 50px;
+  padding: 10px;
+  font-family: 'Lucida Sans' ;
+  font-size: 20px;
+  border-radius: 50%; 
+ }
+
+  li > a {
+  text-decoration: none; 
+ }
+ 
+ 
+ .secaoimg {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  gap: 10px;
+   
+ }
+
+  .family {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  gap: 10px;
+
+ }
+
+  .itens {
+   
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  gap: 10px;
+
+ }
+
+
+
+ 
+  
+
+  
+
+ 
+
+ 
+
+  
+
+  
